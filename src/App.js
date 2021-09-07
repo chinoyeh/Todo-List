@@ -16,7 +16,7 @@ const App = () => {
       setTodoList((todo) => {
         return [...todo, todos];
       });
-      add;
+      
       setTodo("");
       setError("");
     }
